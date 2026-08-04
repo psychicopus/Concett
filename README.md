@@ -1,4 +1,4 @@
-# CONCETT – Concert Journaling Android Application
+# CONCETT - Concert Journaling Android Application
 
 ## Overview
 
